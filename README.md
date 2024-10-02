@@ -33,4 +33,4 @@ This Blog API is built with **NestJS** and **Prisma**, using **PostgreSQL** as t
   }
   ```
 
-![Screenshot](Screenshot%20from%202024-10-02%2015-12-25.png)
+![Block-diagram](Screenshot%20from%2024-10-02%2015-12-25.png)
