@@ -32,3 +32,5 @@ This Blog API is built with **NestJS** and **Prisma**, using **PostgreSQL** as t
     "tags": ["tag1", "tag2"]
   }
   ```
+
+![Block-diagram](Screenshot%20from%202024-10-02%2015-12-25.png)
