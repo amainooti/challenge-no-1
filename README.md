@@ -25,6 +25,7 @@ This Blog API is built with **NestJS** and **Prisma**, using **PostgreSQL** as t
 - **URL**: `/article`
 - **Method**: `POST`
 - **Body**:
+
   ```json
   {
     "title": "string",
@@ -32,5 +33,26 @@ This Blog API is built with **NestJS** and **Prisma**, using **PostgreSQL** as t
     "tags": ["tag1", "tag2"]
   }
   ```
+
+  ### 4. Update Article
+
+  - **URL**: `/article/:id`
+  - **Method**: `PUT`
+  - **Body**:
+
+    ```json
+    {
+      "title": "string",
+      "content": "string",
+      "tags": ["tag1", "tag2"]
+    }
+    ```
+
+    ### 5. Delete Article
+
+    **URL**: `/article/:id`
+    **Method**: `DELETE`
+
+  ### Block Diagram
 
 ![Block-diagram](block-diagram.png)
