@@ -56,3 +56,9 @@ This Blog API is built with **NestJS** and **Prisma**, using **PostgreSQL** as t
   ### Block Diagram
 
 ![Block-diagram](block-diagram.png)
+
+
+## Credits
+
+This project idea is taken from [roadmap.sh](https://roadmap.sh/projects/personal-blog).
+
